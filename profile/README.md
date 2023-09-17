@@ -20,3 +20,7 @@ _You don't have to be an engineer to be a racing driver, but you do have to have
 Не берите решения у своих коллег! Так вы ничему не научитесь, а, вероятно, даже научитесь плохому, потому что большинство студентов по началу пишут [плохой код](https://lvivity.com/how-to-write-good-code).
 
 Спасибо ❤️
+
+## Инструкции
+
+- Как сдавать задачи? Смотрите (**тут**)[./submission.md]
