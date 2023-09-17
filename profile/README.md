@@ -23,4 +23,4 @@ _You don't have to be an engineer to be a racing driver, but you do have to have
 
 ## Инструкции
 
-- Как сдавать задачи? Смотрите (**тут**)[./submission.md]
+- Как сдавать задачи? Смотрите [**тут**](./submission.md)
